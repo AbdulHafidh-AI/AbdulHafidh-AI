@@ -18,8 +18,8 @@
 
 ### MY GITHUB STATS
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bravehard700&show_icons=true&locale=en&layout=compact&theme=dracula" alt="bravehard700" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bravehard700&show_icons=true&locale=en&theme=synthwave" alt="bravehard700" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulHafidh-AI&show_icons=true&locale=en&layout=compact&theme=dracula" alt="AbdulHafidh-Ai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulHafidh-AI&show_icons=true&locale=en&theme=synthwave" alt="AbdulHafidh-AI" /></p>
 <hr>
 
 <h3 align="left"><b>CONNECT WITH ME:</b></h3>
