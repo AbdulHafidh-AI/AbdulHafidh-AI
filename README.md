@@ -44,7 +44,7 @@
 |   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>    |   Beginner  | To Create UI design    |
 |   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>      |  Beginner     | To Create a dynamic web without starting from scratch|
 |    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>        |   Advanced           |      To learn about backend programming language on the website   |
-|   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>          |      Beginner       |  To learn about frontend programming language on the website           |
+|   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>          |      Intermediate       |  To learn about frontend programming language on the website           |
 
 
   
