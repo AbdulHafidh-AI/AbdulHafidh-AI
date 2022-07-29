@@ -2,7 +2,7 @@
 <hr>
 <ul>
 <li>  👨‍🎓I'm currently studying at Syiah Kuala University
-<li>  🖥️ I'm Interested in Data Engineer and Web Developer
+<li>  🖥️ I'm Interested in Machine Learning Engineer and Web Developer 
 <li>  😄 I'm an unpredictable person
 </ul>
 
