@@ -3,8 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer and AI & ML Enthusiast
 ------------------------------------
-
+<p align="justify">
 I’m college student at Syiah Kuala University major in Informatics. The beginning of my journey as web developer and interested in AI and ML was in the 3rd semester of my study when I joined a Bootcamp on the internet. After that, I also took a lot of intensive Bootcamp at many online courses on the internet until now, Now I have a skill in develop a website, In developing website I use PHP and JavaScript. I also master in programming language, but The most programming language that I mastered is Python and the most I like is JavaScript.
+</p>
 
 * ✉️  You can contact me at [hafidhabdul4444@gmail.com](mailto:hafidhabdul4444@gmail.com)
 * 🧠  I'm learning Artificial Inteligence and Machine Learning
