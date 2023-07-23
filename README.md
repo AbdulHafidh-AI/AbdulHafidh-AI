@@ -1,14 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul Hafidh
 ====================================================================================================================================
 
-Web Developer and AI & ML Enthusiast
+Web Developer and Data Science Enthusiast
 ------------------------------------
 <p align="justify">
-I’m college student at Syiah Kuala University major in Informatics. The beginning of my journey as web developer and interested in AI and ML was in the 3rd semester of my study when I joined a Bootcamp on the internet. After that, I also took a lot of intensive Bootcamp at many online courses on the internet until now, Now I have a skill in develop a website, In developing website I use PHP and JavaScript. I also master in programming language, but The most programming language that I mastered is Python and the most I like is JavaScript.
-</p>
+An Informatics student with a strong interest to contribute to the Data Science community. Currently pursuing a bachelor’s degree in Informatics, I gain the best fundamentals in programming, data structures, web development, and Machine Learning. 
+
+Over 3 years of experience as a computer science student, I have gained practical things in many programming languages, including Python, C, and JavaScript. I also know the basic commands of the Linux operating system. 
+
+As an active learner, I also take part to become the leader of student research and development at the Informatics Student Association and I also take part in an Academic core team at Google Developer Students Club Universitas Syiah Kuala. 
+
+In addition, I have strong analytical thinking abilities and time management skills that can support me to achieve my goal.</p>
 
 * ✉️  You can contact me at [hafidhabdul4444@gmail.com](mailto:hafidhabdul4444@gmail.com)
-* 🧠  I'm learning Artificial Inteligence and Machine Learning
+* 🧠  I'm learning Artificial intelligence and Machine Learning
 
 <a href="https://www.github.com/AbdulHafidh-AI" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AbdulHafidh-AI?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
