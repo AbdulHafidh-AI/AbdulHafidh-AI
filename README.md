@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Data Science Enthusiast
 ------------------------------------
 <p align="justify">
-An Informatics student with a strong interest to contribute to the Data Science community. Currently pursuing a bachelor’s degree in Informatics, I gain the best fundamentals in programming, data structures, web development, and Machine Learning. 
+An Informatics student with a solid interest in contributing to the Data Science community. Currently pursuing a bachelor’s degree in Informatics, I gain the best fundamentals in programming, data structures, web development, and Machine Learning. 
 
 Over 3 years of experience as a computer science student, I have gained practical things in many programming languages, including Python, C, and JavaScript. I also know the basic commands of the Linux operating system. 
 
-As an active learner, I also take part to become the leader of student research and development at the Informatics Student Association and I also take part in an Academic core team at Google Developer Students Club Universitas Syiah Kuala. 
+As an active learner, I also take part in becoming the leader of student research and development at the Informatics Student Association and I also take part in an Academic core team at Google Developer Students Club Universitas Syiah Kuala. 
 
 In addition, I have strong analytical thinking abilities and time management skills that can support me to achieve my goal.</p>
 
@@ -23,7 +23,6 @@ src="https://img.shields.io/github/followers/AbdulHafidh-AI?logo=github&style=fo
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
