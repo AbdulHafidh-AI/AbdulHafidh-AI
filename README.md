@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul Hafidh
 ====================================================================================================================================
 
-Web Developer and Data Science Enthusiast
+Artificial Inteligence Engineer Enthusiast
 ------------------------------------
 <p align="justify">
-An Informatics student with a solid interest in contributing to the Data Science community. Currently pursuing a bachelor’s degree in Informatics, I gain the best fundamentals in programming, data structures, web development, and Machine Learning. 
+A fresh graduate in Informatics with a strong passion for contributing to the Data Science and AI community. I completed my bachelor's degree in Informatics in August 2024, equipping myself with a solid foundation in programming, data structures, web development, and Machine Learning.
 
-Over 3 years of experience as a computer science student, I have gained practical things in many programming languages, including Python, C, and JavaScript. I also know the basic commands of the Linux operating system. 
+With over three years of experience as an Informatics student, I have gained hands-on experience in multiple programming languages, including Python, C, and JavaScript. Additionally, I am proficient in Linux command-line operations and system management.
 
-As an active learner, I also take part in becoming the leader of student research and development at the Informatics Student Association and I also take part in an Academic core team at Google Developer Students Club Universitas Syiah Kuala. 
+Beyond academics, I actively took on leadership roles, serving as the Head of Research and Development at the Informatics Student Association and contributing to the Academic Core Team at Google Developer Students Club Universitas Syiah Kuala. These experiences honed my analytical thinking, problem-solving, and time management skills.
 
-In addition, I have strong analytical thinking abilities and time management skills that can support me to achieve my goal.</p>
+Eager to apply my knowledge and skills, I am now looking for opportunities to grow in the fields of Data Science, AI, and Software Development, where I can contribute and continue learning in a dynamic environment. </p>
 
 * ✉️  You can contact me at [hafidhabdul4444@gmail.com](mailto:hafidhabdul4444@gmail.com)
 * 🧠  I'm learning Artificial intelligence and Machine Learning
